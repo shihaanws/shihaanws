@@ -10,3 +10,5 @@
 -->
 ## "Don't be the same, be better!" ##
 
+Shihaan's a newbie to git who's highly aspired about technology.
+
