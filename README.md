@@ -10,5 +10,6 @@
 -->
 ## "Don't be the same, be better!" ##
 
-Shihaan's a newbie to git who's highly aspired about technology.
+&nbsp &nbsp Shihaan's a newbie to git who's highly aspired about technology.
+Reach me on instagram : [shihaan](instagram.com)
 
