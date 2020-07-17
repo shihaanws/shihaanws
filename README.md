@@ -11,5 +11,5 @@
 ## "Don't be the same, be better!" ##
 
 &nbsp &nbsp Shihaan's a newbie to git who's highly aspired about technology.
-Reach me on instagram : [shihaan](instagram.com)
+Reach me on instagram : [shihaan](https://www.instagram.com/shihaan._/)
 
