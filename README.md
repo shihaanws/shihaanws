@@ -12,5 +12,5 @@
 Who is shihaan?
  Shihaan's a newbie to git. He aspires technology.
  <br>
-Reach me on instagram : [shihaan](https://www.instagram.com/shihaan._/)
+Reach me on linkedin : [shihaan](linkedin.com/in/shihaan-w-s-7b6a851a0)
 
