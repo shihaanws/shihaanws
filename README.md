@@ -1,5 +1,4 @@
 ## Hi there 👋
-![logo](https://images.vexels.com/media/users/3/166382/isolated/preview/1ad81b62ad0ec81a584bc22016fd016f-html-programming-language-flat-by-vexels.png =100px)
 [![HitCount](http://hits.dwyl.com/theneoterik/theneoterik.svg)](http://hits.dwyl.com/theneoterik/theneoterik)
 
 <!--
