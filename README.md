@@ -14,6 +14,7 @@
 
 <a href="https://twitter.com/the_neoterik">
   <img src="https://img.icons8.com/android/24/000000/twitter.png" alt="shihaan.'s DEV Community Profile" >
+  </a>
 
 <a href="https://www.linkedin.com/in/shihaan-w-s-7b6a851a0/">
   <img src="https://img.icons8.com/metro/26/000000/linkedin.png" alt="shihaan.'s DEV Community Profile" >
