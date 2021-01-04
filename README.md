@@ -13,8 +13,11 @@
 
 <img src="https://img.icons8.com/android/24/000000/twitter.png"/>
 <img src="https://img.icons8.com/metro/26/000000/linkedin.png"/>
-<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="35" width="30"/>
 
+<a href="https://dev.to/the_neoterik">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="shihaan.'s DEV Community Profile" height="30" width="30">
+</a>
+      
 </p>
 
 Reach me on linkedin : [Shihaan](https://www.linkedin.com/in/shihaan-w-s-7b6a851a0/)
