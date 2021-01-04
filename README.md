@@ -14,9 +14,9 @@
 <img src="https://img.icons8.com/android/24/000000/twitter.png"/>
 
 
-<a href="https://dev.to/the_neoterik">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="shihaan.'s DEV Community Profile" height="30" width="30">
-</a>
+<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+
+<img src="https://img.icons8.com/windows/32/000000/dev.png"/>
 
 </p>
 
