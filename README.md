@@ -21,7 +21,7 @@
 </a>
       
 <a href="https://dev.to/the_neoterik">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="shihaan.'s DEV Community Profile" height="27" width="32">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="shihaan.'s DEV Community Profile" height="27" width="31">
 </a>
       
 </p>
