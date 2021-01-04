@@ -12,10 +12,7 @@
 <p align="center">
 
 <img src="https://img.icons8.com/android/24/000000/twitter.png"/>
-
-
-<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-
+<img src="https://img.icons8.com/metro/26/000000/linkedin.png"/>
 <img src="https://img.icons8.com/windows/32/000000/dev.png"/>
 
 </p>
