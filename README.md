@@ -10,10 +10,10 @@
 
  
 <p align="left">
-
+<!-- 
 <img src="https://img.icons8.com/android/24/000000/twitter.png"/>
 <img src="https://img.icons8.com/metro/26/000000/linkedin.png"/>
-
+ -->
 
 <a href="https://dev.to/the_neoterik">
   <img src="https://img.icons8.com/android/24/000000/twitter.png" alt="shihaan.'s DEV Community Profile" height="30" width="30">
