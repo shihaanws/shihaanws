@@ -13,7 +13,7 @@
 
 <img src="https://img.icons8.com/android/24/000000/twitter.png"/>
 <img src="https://img.icons8.com/metro/26/000000/linkedin.png"/>
-<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"/>
+<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="30" width="30"/>
 
 </p>
 
