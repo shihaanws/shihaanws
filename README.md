@@ -1,5 +1,6 @@
 ## Hello World  👋  
 
+Connect with me on
 <!--
 **theneoterik/theneoterik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +22,7 @@
 </a>
       
 <a href="https://dev.to/the_neoterik">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="shihaan.'s DEV Community Profile" height="27" width="31">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="shihaan.'s DEV Community Profile" height="25" width="31">
 </a>
       
 </p>
