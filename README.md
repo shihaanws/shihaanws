@@ -1,6 +1,6 @@
 ## Hello World  👋  
 
-Connect with me on
+Connect with me 
 <!--
 **theneoterik/theneoterik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
