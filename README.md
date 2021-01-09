@@ -1,6 +1,5 @@
 ## Hello World  👋  
 
-Get in touch  
 <!--
 **theneoterik/theneoterik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +9,8 @@ Get in touch
 
 
  
-<p align="left">
+<p align="center">
+Get in touch  
 
 
 <a href="https://twitter.com/the_neoterik">
