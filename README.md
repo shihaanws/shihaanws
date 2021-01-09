@@ -11,7 +11,7 @@
  
 <p align="center">
 Get in touch  
-
+<br>
 
 <a href="https://twitter.com/the_neoterik">
   <img src="https://img.icons8.com/android/24/000000/twitter.png" alt="shihaan.'s DEV Community Profile" >
