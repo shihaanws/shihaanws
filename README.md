@@ -10,7 +10,7 @@
 
  
 <p align="center">
-Get in touch  
+<strong> Get in touch  </strong>
 <br>
 
 <a href="https://twitter.com/the_neoterik">
