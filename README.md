@@ -13,6 +13,11 @@
 <strong> Get in touch  </strong>
 <br>
 
+
+
+<a title="Portfolio, shihaan.netlify.app" href="https://shihaan.netlify.app"><img alt="My portfolio, shihaan.netlify.app" src="https://raw.githubusercontent.com/saurabhdaware/saurabhdaware/master/icons/portfoliobutton.png" width="130" /></a> <a title="DEV.to Articles" href="https://dev.to/theneterik"><img alt="My DEV.to Profile" src="https://raw.githubusercontent.com/saurabhdaware/saurabhdaware/master/icons/articles.png" width="130" /></a> <a title="Twitter Profile" href="https://twitter.com/theneoterik"><img alt="MY Twitter Profile" src="https://raw.githubusercontent.com/saurabhdaware/saurabhdaware/master/icons/twitter.png" width="130" /></a>
+
+
 <a href="https://twitter.com/the_neoterik">
   <img src="https://img.icons8.com/android/24/000000/twitter.png" alt="shihaan.'s DEV Community Profile" >
   </a> &nbsp;
