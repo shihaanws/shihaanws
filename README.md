@@ -15,7 +15,7 @@
 
 
 
-<a title="Portfolio, shihaan.netlify.app" href="https://shihaan.netlify.app"><img alt="My portfolio, shihaan.netlify.app" src="https://raw.githubusercontent.com/saurabhdaware/saurabhdaware/master/icons/portfoliobutton.png" width="130" /><a title="DEV.to Articles" href="https://dev.to/theneterik"><img alt="My DEV.to Profile" src="https://raw.githubusercontent.com/saurabhdaware/saurabhdaware/master/icons/articles.png" width="130" /><a title="Twitter Profile" href="https://twitter.com/the_neoterik"><img alt="MY Twitter Profile" src="https://raw.githubusercontent.com/saurabhdaware/saurabhdaware/master/icons/twitter.png" width="130" /><a title="Linkedin Profile" href="https://www.linkedin.com/in/shihaan-w-s-7b6a851a0/"><img alt="MY Linkedin Profile" style="padding-top:40px;" src="https://i.ibb.co/gzYDGW8/Linkedin-removebg-preview.png" width="130" />
+<a title="Portfolio, shihaan.netlify.app" href="https://shihaan.netlify.app"><img alt="My portfolio, shihaan.netlify.app" src="https://raw.githubusercontent.com/saurabhdaware/saurabhdaware/master/icons/portfoliobutton.png" width="130" /><a title="DEV.to Articles" href="https://dev.to/theneterik"><img alt="My DEV.to Profile" src="https://raw.githubusercontent.com/saurabhdaware/saurabhdaware/master/icons/articles.png" width="130" /><a title="Twitter Profile" href="https://twitter.com/the_neoterik"><img alt="MY Twitter Profile" src="https://raw.githubusercontent.com/saurabhdaware/saurabhdaware/master/icons/twitter.png" width="130" /><a title="Linkedin Profile" href="https://www.linkedin.com/in/shihaan-w-s-7b6a851a0/"><img alt="MY Linkedin Profile" style="paddingTop:40px;" src="https://i.ibb.co/gzYDGW8/Linkedin-removebg-preview.png" width="130" />
 
 
 
