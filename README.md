@@ -21,7 +21,7 @@
    <img alt="My DEV.to Profile" src="https://i.ibb.co/xMs57Vq/dev.png" width="130" /></a>
  <a title="Twitter Profile" href="https://twitter.com/shihaanws">
    <img alt="MY Twitter Profile" src="https://i.ibb.co/tCzH0hL/twitt.png" width="130" /></a>
- <a title="Linkedin Profile" href="https://www.linkedin.com/in/shihaan-w-s-7b6a851a0/">
+ <a title="Linkedin Profile" href="https://www.linkedin.com/in/shihaanws/">
     <img alt="MY Linkedin Profile" style="margin-top:-400px;" src="https://i.ibb.co/5KwdZ1P/link.png" width="130" ></a>
   
   
@@ -29,21 +29,6 @@
  
 </div>
   
-  
-
-
-
-
-
-<!--- <a href="https://twitter.com/shihaanws">
-  <img src="https://img.icons8.com/android/24/000000/twitter.png" alt="shihaan.'s DEV Community Profile" >
-  </a> &nbsp;
-<a href="https://www.linkedin.com/in/shihaanws/">
-  <img src="https://img.icons8.com/metro/26/000000/linkedin.png" alt="shihaan.'s DEV Community Profile" >
-</a>&nbsp;
-<a href="https://dev.to/shihaanws">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="shihaan.'s DEV Community Profile" height="25" width="31">
-</a> ---> 
       
 </p>
 
