@@ -15,7 +15,7 @@
 
 
 <div align="center">
-<a title="Portfolio, shihaan.netlify.app" href="https://www.shihaan.netlify.app">
+<a title="Portfolio, shihaan.netlify.app" href="https://shihaan.netlify.app">
   <img alt="My portfolio, shihaan.netlify.app" src="https://i.ibb.co/7ngCcVb/port.png" width="130" /></a>
  <a title="DEV.to Articles" href="https://dev.to/shihaanws">
    <img alt="My DEV.to Profile" src="https://i.ibb.co/xMs57Vq/dev.png" width="130" /></a>
